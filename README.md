@@ -2,7 +2,7 @@
 
 # 🤖 PiPA
 
-A **P**ersonal **A**ssistant for your Raspberry **Pi** - a Telegram bot that knows your calendar and nudges you at the moments that actually matter in your day.
+A **P**ersonal **A**ssistant for your Raspberry **Pi** (Or any always on Machine) - a Telegram bot that knows your calendar and nudges you at the moments that actually matter in your day.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
