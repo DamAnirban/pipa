@@ -1,0 +1,11 @@
+# Secrets — never commit these
+credentials/.env
+credentials/credentials.json
+credentials/token.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Local rolling memory log (personal, machine-specific state)
+memory/dynamic_memory.md
